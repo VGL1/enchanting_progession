@@ -1,0 +1,7 @@
+{
+  "enchantment": "minecraft:unbreaking",
+  "max_level": 3,
+  "rarity": "uncommon",
+  "dust_per_level": 5,
+  "shard_cost": 1
+}

@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "equipment",
+  "ingredients": [
+    { "item": "minecraft:stick" },
+    { "item": "minecraft:amethyst_shard" }
+  ],
+  "result": {
+    "id": "disen_chanting:disenchanting_wand",
+    "count": 1
+  }
+}

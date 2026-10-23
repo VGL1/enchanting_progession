@@ -1,0 +1,7 @@
+{
+  "enchantment": "minecraft:fortune",
+  "max_level": 3,
+  "rarity": "rare",
+  "dust_per_level": 8,
+  "shard_cost": 2
+}

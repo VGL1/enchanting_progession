@@ -1,0 +1,7 @@
+{
+  "enchantment": "minecraft:protection",
+  "max_level": 4,
+  "rarity": "uncommon",
+  "dust_per_level": 4,
+  "shard_cost": 1
+}

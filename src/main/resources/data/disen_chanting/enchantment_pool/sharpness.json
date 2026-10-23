@@ -1,0 +1,7 @@
+{
+  "enchantment": "minecraft:sharpness",
+  "max_level": 5,
+  "rarity": "common",
+  "dust_per_level": 3,
+  "shard_cost": 0
+}

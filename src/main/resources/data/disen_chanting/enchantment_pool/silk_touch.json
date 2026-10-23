@@ -1,0 +1,7 @@
+{
+  "enchantment": "minecraft:silk_touch",
+  "max_level": 1,
+  "rarity": "rare",
+  "dust_per_level": 12,
+  "shard_cost": 3
+}
